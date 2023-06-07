@@ -20,10 +20,10 @@ timezone: America/Los_Angeles
 
 title: iptracej's Notes (kiwatana) # the main title
 
-tagline: A Small Collection of Vulnerability research, CTF writeups, and Pentest cheatsheets # it will display as the sub-title
+tagline: A small collection of vulnerability research, CTF writeups, and Pentest cheatsheets # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A Small Collection of Vulnerability research, CTF writeups, and Pentest cheatsheets
+  A small collection of vulnerability research, CTF writeups, and Pentest cheatsheets
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://iptracej.github.io"
